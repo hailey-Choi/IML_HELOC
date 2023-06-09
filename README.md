@@ -1,4 +1,4 @@
-# STAT3612 Statistical Machine Learning: Group Project
+# Interpretable Machine Learning on HELOC loans data
 The theme of the project is interpretable machine learning (IML) with applications to a real data case study in the banking industry. 
 For an IML model, both “prediction accuracy” and “model explainability” are equally important.
 
